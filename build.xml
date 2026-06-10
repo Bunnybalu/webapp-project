@@ -9,4 +9,8 @@
         <echo message="Build Successful"/>
     </target>
 
+    <target name="checkstyle">
+        <echo message="Checkstyle target executed"/>
+    </target>
+
 </project>
